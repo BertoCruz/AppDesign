@@ -1,1 +1,14 @@
 
+For the first final idea, which would heavily entail our main focus of interest, Collin and I have thouht about working with a 
+database structured international cookbook. I mean, who doesn't like to cook? Our project would be focusing on being able to 
+read/write different recipes from around the world. We plan on working with servers, just like in our last honor assignment. 
+We also plan on making this project an interactive realm, where guest chefs will appear with tips and help on certain recipes 
+found within our cookbook. Guest appearances will include Julia Child, Chef Gordon Ramsay (from top chef), and many more! 
+Furthermore, we will also work heavily with the appearance/image whenever a new page gets loaded.
+
+
+For our second idea, which really doesn't mean much (because we clearly express a great interest in the culinary arts), will 
+be to make an app that is able to play music and turn itself off, based on a timer set by the user. This idea is great for people
+who like to listen to music/sounds in order to help them fall asleep. This app will also be able to give tips on sleep cycles and 
+general advice on why sleep is important. The app will also be able to turn the phone/computer off by itself, because, naturally, 
+you'd be asleep once the timer stops.
